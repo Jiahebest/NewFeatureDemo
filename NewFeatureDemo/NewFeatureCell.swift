@@ -14,7 +14,7 @@ class NewFeatureCell: UICollectionViewCell {
     override init(frame: CGRect) {
         super.init(frame: frame)
         //设置imageView的frame
-        imageView.frame = self.frame
+        imageView.frame = self.bounds
         self.addSubview(imageView)
     }
     
