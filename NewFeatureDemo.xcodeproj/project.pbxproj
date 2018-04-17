@@ -12,6 +12,7 @@
 		E9C5BCC32085A0A1000F21E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9C5BCC12085A0A1000F21E5 /* Main.storyboard */; };
 		E9C5BCC52085A0A1000F21E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E9C5BCC42085A0A1000F21E5 /* Assets.xcassets */; };
 		E9C5BCC82085A0A1000F21E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E9C5BCC62085A0A1000F21E5 /* LaunchScreen.storyboard */; };
+		E9C5BCD92085A316000F21E5 /* NewFeatureCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C5BCD82085A316000F21E5 /* NewFeatureCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E9C5BCC42085A0A1000F21E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9C5BCC72085A0A1000F21E5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9C5BCC92085A0A1000F21E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9C5BCD82085A316000F21E5 /* NewFeatureCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewFeatureCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				E9C5BCBD2085A0A1000F21E5 /* AppDelegate.swift */,
 				E9C5BCBF2085A0A1000F21E5 /* ViewController.swift */,
+				E9C5BCD82085A316000F21E5 /* NewFeatureCell.swift */,
 				E9C5BCC12085A0A1000F21E5 /* Main.storyboard */,
 				E9C5BCC42085A0A1000F21E5 /* Assets.xcassets */,
 				E9C5BCC62085A0A1000F21E5 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E9C5BCC02085A0A1000F21E5 /* ViewController.swift in Sources */,
+				E9C5BCD92085A316000F21E5 /* NewFeatureCell.swift in Sources */,
 				E9C5BCBE2085A0A1000F21E5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
